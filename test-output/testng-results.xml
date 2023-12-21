@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-21T12:35:25 EET" name="Default suite" finished-at="2023-12-21T12:35:35 EET" duration-ms="9607">
+    <groups>
+    </groups>
+    <test started-at="2023-12-21T12:35:25 EET" name="Default test" finished-at="2023-12-21T12:35:35 EET" duration-ms="9607">
+      <class name="finalProject.AmazonGiftCards">
+        <test-method is-config="true" signature="myBeforeTest()[pri:0, instance:finalProject.AmazonGiftCards@4a335fa8]" started-at="2023-12-21T12:35:26 EET" name="myBeforeTest" finished-at="2023-12-21T12:35:31 EET" duration-ms="5442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeTest -->
+        <test-method signature="RandomGiftCard()[pri:1, instance:finalProject.AmazonGiftCards@4a335fa8]" started-at="2023-12-21T12:35:31 EET" name="RandomGiftCard" finished-at="2023-12-21T12:35:34 EET" duration-ms="3273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RandomGiftCard -->
+        <test-method signature="RandomPriceAmount()[pri:2, instance:finalProject.AmazonGiftCards@4a335fa8]" started-at="2023-12-21T12:35:34 EET" name="RandomPriceAmount" finished-at="2023-12-21T12:35:34 EET" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RandomPriceAmount -->
+        <test-method signature="fillAllBlank()[pri:3, instance:finalProject.AmazonGiftCards@4a335fa8]" started-at="2023-12-21T12:35:34 EET" name="fillAllBlank" finished-at="2023-12-21T12:35:35 EET" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillAllBlank -->
+        <test-method is-config="true" signature="myAfterTest()[pri:0, instance:finalProject.AmazonGiftCards@4a335fa8]" started-at="2023-12-21T12:35:35 EET" name="myAfterTest" finished-at="2023-12-21T12:35:35 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+      </class> <!-- finalProject.AmazonGiftCards -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
